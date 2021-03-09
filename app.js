@@ -9,4 +9,3 @@ var _card = faker.helpers.createCard();
 console.log("Name : " + _name);
 console.log("Email : " + _email);
 console.log("Card : " + _card);
-
